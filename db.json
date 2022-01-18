@@ -2,15 +2,30 @@
   "result":[
     {
       "key":1,
-      "text":"Item1"
+      "text":"Item1",
+      "icon": null,
+      "parentKet": null,
+      "selected":true,
+      "disabled":false,
+      "expand": false
     },
     {
       "key":2,
-      "text":"Item2"
+      "text":"Item2",
+      "icon": null,
+      "parentKet": 1,
+      "selected":false,
+      "disabled":false,
+      "expand": false
     },
      {
       "key":3,
-      "text":"Item3"
+      "text":"Item3",
+       "icon": null,
+      "parentKet": null,
+      "selected":false,
+      "disabled":false,
+      "expand": false
     }
     ]
 }
