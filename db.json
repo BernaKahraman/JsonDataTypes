@@ -5,16 +5,6 @@
       "text":"Item1",
       "icon": null,
       "parentKey": null,
-      "childrenKey": [
-        {
-          "id": "2",
-          "icon": null,
-          "text": "Item2",
-          "childrenKey": [],
-          "selected": false,
-          "disabled": false,
-          "expand": false
-        },
       "selected":true,
       "disabled":false,
       "expand": false
