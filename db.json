@@ -4,7 +4,7 @@
     "icon": null,
     "text": "Item1",
     "parentKey": null,
-    "selected": true,
+    "selected": false,
     "disabled": false,
     "expand": false
   },
